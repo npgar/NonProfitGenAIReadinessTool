@@ -12,18 +12,22 @@ Non-profit organizations obviuously come in all shapes and sizes with different 
 
 # Suggested Process of Using our Tool
 Step 1: Decide who should be involved in the GenAI readiness assessment process. We recommend that this process include staff at all levels with different responsibilities (e.g., operational, tactical, and strategic).
+
 Step 2: Have all individuals involved in the GenAI readiness assessment process answer the questions in this Excel file independently.
+
 Step 3: Have each assessor send their results to a coordinator or the person in charge of the GenAI assessment process at the non-profit.
+
 Step 4: The coordinator should then organize a meeting to debate and discuss the results from each assessor. 
+
 NOTE: A successful use of our tool is one that elicits rich conversations and healthy debate. It is better for the non-profit to admit that they are not ready than to implement GenAI before they have the foundations for success.
 
 # Excel File Instructions
-1) Enable all warning messages when opening the workbook.
-2) Answer the questions on the INPUTS worksheet. Only modify the cells in light gray.
+1) Enable all warning messages and macros when opening the workbook.
+2) Answer the questions on the INPUTS worksheet. Only modify the cells in light gray. All other cells should be locked.
 3) Select the DASHBOARD worksheet to view the readiness results. Each time you click on the DASHBOARD worksheet, the dashboard gets refreshed.
 
 # Operating System Requirements
 We tested the solution on both MACs and PCs using Office 365.
 
 # Version and Published Manuscript
-We are in the process of attempting to publish a manuscript corresponding to this tool. The version of the tool that corresponds to that manuscript is v13. Please keep in mind that future versions may add, remove, or reorganize the items as both non-profits and GenAI technologies and applications evolve.
+We are in the process of attempting to publish a manuscript corresponding to this tool, but the publication process is excessively long. The version of the tool that corresponds to that manuscript should it get published is v13. Please keep in mind that future versions may add, remove, or reorganize the items as both non-profits and GenAI technologies and applications evolve.
