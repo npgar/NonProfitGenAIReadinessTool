@@ -24,3 +24,6 @@ NOTE: A successful use of our tool is one that elicits rich conversations and he
 
 # Operating System Requirements
 We tested the solution on both MACs and PCs using Office 365.
+
+# Version and Published Manuscript
+We are in the process of attempting to publish a manuscript corresponding to this tool. The version of the tool that corresponds to that manuscript is v13. Please keep in mind that future versions may add, remove, or reorganize the items as both non-profits and GenAI technologies and applications evolve.
