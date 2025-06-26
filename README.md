@@ -24,5 +24,3 @@ NOTE: A successful use of our tool is one that elicits rich conversations and he
 
 # Operating System Requirements
 We tested the solution on both MACs and PCs using Office 365.
-
-![image](https://github.com/user-attachments/assets/7976479e-99ff-4577-84d9-f400bdd14e7a)
