@@ -1,17 +1,23 @@
 # Non-Profit GenAI Readiness Tool Overview
 This tool is designed to assess a non-profit's readiness to implement GenAI technologies and applications. This tool accounts for the uniqueness of both GenAI and non-profit organizations. Following a structured readiness assessment process helps the non-profit identify strengths, gaps, and priorities to maximize potential impact while minimizing risks associated with GenAI implementations. Our tool is designed to help non-profit's assess their GenAI readiness before (not after) implementing GenAI solutions. Doing so will help the non-profit determine if they have the foundations to be successful with their GenAI implementations. Obviously, scoring high on our tool cannot guarentee success, but our research suggests that scoring high will increase the non-profit's chances of a successful GenAI implementation. At a minimum, scoring high will result in the non-profit having knowledge of the unique issues facing non-profits and GenAI. Scoring low on certain categories will help the non-profit structure their readiness efforts in specific areas such as people, process, or culture.
 
+# Sector
+Our tool is deigned for non-government non-profits. Governmental services have different constraints and issues that are not included in our tool.
+
 # Technology Context
 This tool is only designed to assess readiness for GenAI technologies and applications (specialized and generalized). It is not designed for any other software or technologies.
 
 # Users
 This tool can be used by any non-profit employee who is involved in the GenAI readiness assessment process at a non-profit organization. We suggest non-profit's seek input from staff across different levels when assessing their GenAI readiness because staff at different levels have different insights regarding the capabilities of the non-profit organization. Younger staff, for instance, may have a better understanding of GenAI technologies and applications relative to older executives at the non-profit. therefore, it is important to seek input across the non-profit and not just the senior leadership team.
 
-# Non-Profit Sector
+# Non-Profit Social or Societal Cause
 Certain questions are related to the social mission of the non-profit, so one important bouandary condition is that the non-profit must have a social or non-financial mission. Otherwise, those questions will not be relevant. With that said, however, our tool is designed to be sector agnostic even though we constructed the tool using data from a case study of two health-care related non-profit organizations. That is, an Ocean cleanup or a healthcare related non-profit may potentially benefit from using our tool. We deliberately designed the items and questions to be broadly applicable to non-profits across sectors that have social instead of finaincial missions. 
 
-# Size or Business Model of Non-profit
-Non-profit organizations obviuously come in all shapes and sizes with different sources of funding and operating models. Non-profits may also range in organizational complexity and size. Some non-profits, for instance, only have two or three people while others are multi-national containing thousands of employees and volunteers. Our tool will be most helpful for non-profit organizations that are large enough to face the many types of people, process, and technology issues associated with GenAI implementations. Many of the questions on our tool may not be relevant for non-profits that only contain one or two people. With that said, small non-profits may still benefit from discussing certain questions on the tool even if all of them are not applicable.
+# Non-Profit Operating Models
+Non-profits have many different operating models depending on their mission, funding sources, and how they deliver services. These models help define how a non-profit creates value, sustains operations, and achieves their social or societal objectives. A few common non-profit operating models include Beneficiary-Oriented Service Model, Member-based model, Fee-For-Service model, Foundation model, or advocacy model. We did not limit the design of our tool to any one specific operating model. Our tool may be used at non-profits with all different operating models. The main constraint is that the non-profit must have a social or societal mission instead of a finanical (profit) driven mission.
+
+# Non-Profit Organizational Constraints
+Non-profits range in organizational complexity, structure, and size. Some non-profits, for instance, only have two or three people while others are multi-national containing thousands of employees and volunteers. Our tool will be most helpful for non-profit organizations that are large enough to face the many types of people, process, and technology issues associated with GenAI implementations. Many of the questions on our tool may not be relevant for non-profits that only contain one or two people. With that said, small non-profits may still benefit from discussing certain questions on the tool even if all of them are not applicable.
 
 # Suggested Process of Using our Tool
 Step 1: Decide who should be involved in the GenAI readiness assessment process. We recommend that this process include staff at all levels with different responsibilities (e.g., operational, tactical, and strategic).
